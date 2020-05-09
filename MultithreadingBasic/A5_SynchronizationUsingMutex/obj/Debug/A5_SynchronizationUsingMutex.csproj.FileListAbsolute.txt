@@ -1,0 +1,5 @@
+C:\Users\LENOVO\source\repos\MultithreadingBasic\A5_SynchronizationUsingMutex\bin\Debug\A5_SynchronizationUsingMutex.exe.config
+C:\Users\LENOVO\source\repos\MultithreadingBasic\A5_SynchronizationUsingMutex\bin\Debug\A5_SynchronizationUsingMutex.exe
+C:\Users\LENOVO\source\repos\MultithreadingBasic\A5_SynchronizationUsingMutex\bin\Debug\A5_SynchronizationUsingMutex.pdb
+C:\Users\LENOVO\source\repos\MultithreadingBasic\A5_SynchronizationUsingMutex\obj\Debug\A5_SynchronizationUsingMutex.exe
+C:\Users\LENOVO\source\repos\MultithreadingBasic\A5_SynchronizationUsingMutex\obj\Debug\A5_SynchronizationUsingMutex.pdb

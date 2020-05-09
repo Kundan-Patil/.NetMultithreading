@@ -1,0 +1,6 @@
+C:\Users\LENOVO\source\repos\MultithreadingBasic\MultithreadingBasic\bin\Debug\MultithreadingBasic.exe.config
+C:\Users\LENOVO\source\repos\MultithreadingBasic\MultithreadingBasic\bin\Debug\MultithreadingBasic.exe
+C:\Users\LENOVO\source\repos\MultithreadingBasic\MultithreadingBasic\bin\Debug\MultithreadingBasic.pdb
+C:\Users\LENOVO\source\repos\MultithreadingBasic\MultithreadingBasic\obj\Debug\MultithreadingBasic.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MultithreadingBasic\MultithreadingBasic\obj\Debug\MultithreadingBasic.exe
+C:\Users\LENOVO\source\repos\MultithreadingBasic\MultithreadingBasic\obj\Debug\MultithreadingBasic.pdb

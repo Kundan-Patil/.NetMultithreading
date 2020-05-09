@@ -1,0 +1,5 @@
+C:\Users\LENOVO\source\repos\MultithreadingBasic\SimpleThread - 1\bin\Debug\SimpleThread - 1.exe.config
+C:\Users\LENOVO\source\repos\MultithreadingBasic\SimpleThread - 1\bin\Debug\SimpleThread - 1.exe
+C:\Users\LENOVO\source\repos\MultithreadingBasic\SimpleThread - 1\bin\Debug\SimpleThread - 1.pdb
+C:\Users\LENOVO\source\repos\MultithreadingBasic\SimpleThread - 1\obj\Debug\SimpleThread - 1.exe
+C:\Users\LENOVO\source\repos\MultithreadingBasic\SimpleThread - 1\obj\Debug\SimpleThread - 1.pdb

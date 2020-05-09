@@ -1,0 +1,5 @@
+C:\Users\LENOVO\source\repos\MultithreadingBasic\A3_TwoThreadsUsingMonitor\bin\Debug\A3_TwoThreadsUsingMonitor.exe.config
+C:\Users\LENOVO\source\repos\MultithreadingBasic\A3_TwoThreadsUsingMonitor\bin\Debug\A3_TwoThreadsUsingMonitor.exe
+C:\Users\LENOVO\source\repos\MultithreadingBasic\A3_TwoThreadsUsingMonitor\bin\Debug\A3_TwoThreadsUsingMonitor.pdb
+C:\Users\LENOVO\source\repos\MultithreadingBasic\A3_TwoThreadsUsingMonitor\obj\Debug\A3_TwoThreadsUsingMonitor.exe
+C:\Users\LENOVO\source\repos\MultithreadingBasic\A3_TwoThreadsUsingMonitor\obj\Debug\A3_TwoThreadsUsingMonitor.pdb

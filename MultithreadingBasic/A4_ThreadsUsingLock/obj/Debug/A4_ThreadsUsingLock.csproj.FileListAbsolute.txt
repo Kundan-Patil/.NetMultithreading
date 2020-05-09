@@ -1,0 +1,5 @@
+C:\Users\LENOVO\source\repos\MultithreadingBasic\A4_ThreadsUsingLock\bin\Debug\A4_ThreadsUsingLock.exe.config
+C:\Users\LENOVO\source\repos\MultithreadingBasic\A4_ThreadsUsingLock\bin\Debug\A4_ThreadsUsingLock.exe
+C:\Users\LENOVO\source\repos\MultithreadingBasic\A4_ThreadsUsingLock\bin\Debug\A4_ThreadsUsingLock.pdb
+C:\Users\LENOVO\source\repos\MultithreadingBasic\A4_ThreadsUsingLock\obj\Debug\A4_ThreadsUsingLock.exe
+C:\Users\LENOVO\source\repos\MultithreadingBasic\A4_ThreadsUsingLock\obj\Debug\A4_ThreadsUsingLock.pdb
